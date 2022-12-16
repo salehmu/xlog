@@ -11,6 +11,7 @@ import (
 	_ "github.com/emad-elsaid/xlog/extensions/emoji"
 	_ "github.com/emad-elsaid/xlog/extensions/file_operations"
 	_ "github.com/emad-elsaid/xlog/extensions/hashtags"
+	_ "github.com/emad-elsaid/xlog/extensions/isbn"
 	_ "github.com/emad-elsaid/xlog/extensions/link_preview"
 	_ "github.com/emad-elsaid/xlog/extensions/manifest"
 	_ "github.com/emad-elsaid/xlog/extensions/opengraph"
